@@ -12,5 +12,5 @@ Accuracy и f1 на тестовом датасете: 0,92
 ### TODO:
  - [ ] Gridsearch границы forged/original
  - [ ] tiplet loss
- - [ ] concat datasets
+ - [*] concat datasets
 
