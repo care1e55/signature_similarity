@@ -10,6 +10,8 @@ Boilerplate код взят с публичного кернела [kaggle](http
 Accuracy и f1 на тестовом датасете: 0,92
 
 ### TODO:
+ - [ ] train/test split
+ - [ ] вариации train/test - те что модель видела, те что не видела из тех классов что есть, те что модель невидела никогда  
  - [ ] Gridsearch границы forged/original
  - [ ] tiplet loss
  - [x] concat datasets
